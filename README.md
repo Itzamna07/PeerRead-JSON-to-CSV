@@ -11,7 +11,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Itzamna07/PeerRead-JSON-to-CSV.git
 cd your-repo
 Run the scripts:
 
